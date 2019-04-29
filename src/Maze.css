@@ -1,0 +1,9 @@
+.Maze {
+  padding: 50px;
+  text-align: center;
+}
+
+.Maze canvas {
+    border: 1px solid #aaf;
+    padding: 5px;
+}
