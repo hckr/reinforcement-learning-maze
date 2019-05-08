@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/reinforcement-learning-maze/precache-manifest.76b3898f73daf554d29f343415917a97.js"
+  "/reinforcement-learning-maze/precache-manifest.4b2c533c0df3ccbc15c00c110164fc4e.js"
 );
 
 self.addEventListener('message', (event) => {
