@@ -19,7 +19,7 @@
     "redux": "4.0.1",
     "redux-thunk": "2.3.0",
     "styled-components": "4.2.0",
-    "tslint": "5.16.0",
+    "tslint": "5.20.1",
     "typescript": "3.4.5",
     "typescript-fsa": "3.0.0",
     "typescript-fsa-reducers": "1.2.1"
