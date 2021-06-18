@@ -4,7 +4,7 @@
   "homepage": "https://hckr.github.io/reinforcement-learning-maze",
   "private": true,
   "dependencies": {
-    "@types/jest": "24.0.12",
+    "@types/jest": "24.9.1",
     "@types/node": "11.13.8",
     "@types/react": "16.8.15",
     "@types/react-dom": "16.8.4",
