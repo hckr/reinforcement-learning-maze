@@ -22,7 +22,7 @@
     "tslint": "5.16.0",
     "typescript": "3.4.5",
     "typescript-fsa": "3.0.0",
-    "typescript-fsa-reducers": "1.2.1"
+    "typescript-fsa-reducers": "1.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
